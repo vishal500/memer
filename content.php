@@ -1,7 +1,210 @@
+<section id="about" class="about section">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-5">
+
+            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
+                <div class="content-wrapper">
+                    <div class="section-header">
+                        <span class="section-badge">ABOUT OUR COMPANY</span>
+                        <h2>WHO WE ARE</h2>
+                    </div>
+
+                    <p class="">Memar International is a premier multi-disciplinary construction and engineering firm established in
+                        Qatar in 2004. With over two decades of experience, we have evolved into a market leader, providing
+                        comprehensive solutions from architectural conceptualization to complex industrial engineering.
+                    </p>
+                    <p class="">
+                        Our unified entity now encompasses a vast spectrum of capabilities, seamlessly integrating general
+                        construction, specialized protective coatings, and advanced engineering services under one roof.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
+                <div class="visual-section">
+                    <div class="main-image-container">
+                        <img src="assets/img/about/about-8.webp" alt="Professional team collaboration" class="img-fluid main-visual">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- /About Section -->
+
+<section id="features-2" class="features-2 section  dark-background">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container section-title" data-aos="fade-up">
+            <span class="description-title">Our Vision</span>
+            <h2>Our Vision</h2>
+        </div>
+        <div class="feature-testimonial" data-aos="fade-up" data-aos-delay="300">
+            <div class="row align-items-center">
+                <div class="col-lg-6" data-aos="zoom-in">
+                    <div class="testimonial-image">
+                        <img src="assets/img/features/features-4.webp" alt="Testimonial" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="testimonial-content">
+                        <div class="quote-icon" style="color:#fff;">
+                            <i class="bi bi-quote"></i>
+                        </div>
+                        <p>To be the region's most trusted partner in construction and
+                            engineering excellence, driving sustainable growth and setting
+                            benchmarks in quality and innovation.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+<section id="features-3" class="features-2 section">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100" style="padding-top: 40px;">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <span class="description-title">Our Mission</span>
+            <h2>Our Mission</h2>
+        </div>
+
+        <div class="row g-4">
+
+            <!-- Excellence -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="150">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-rocket-takeoff"></i>
+                    </div>
+                    <h3>EXCELLENCE</h3>
+                    <p>
+                        To deliver superior quality in every project,
+                        exceeding client expectations through precision
+                        and dedication.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Partnership -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-people-fill"></i>
+                    </div>
+                    <h3>PARTNERSHIP</h3>
+                    <p>
+                        To build lasting relationships with our clients
+                        based on trust, transparency, and mutual success.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Sustainability -->
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-leaf"></i>
+                    </div>
+                    <h3>SUSTAINABILITY</h3>
+                    <p>
+                        To implement environmentally responsible practices
+                        and innovative solutions for a better future.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+<section id="core-values" class="features-2 section light-background">
+
+    <div class="container" data-aos="fade-up" style="padding-top: 40px;">
+
+        <!-- Section Title -->
+        <div class="container section-title " data-aos="fade-up">
+            <span class="description-title">Our Core Values</span>
+            <h2>OUR CORE VALUES</h2>
+        </div>
+
+        <div class="row g-4">
+
+            <!-- Integrity -->
+            <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-shield-check"></i>
+                    </div>
+                    <h3>INTEGRITY</h3>
+                    <p>
+                        We uphold the highest ethical standards in all
+                        our operations.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Teamwork -->
+            <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="150">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-people-fill"></i>
+                    </div>
+                    <h3>TEAMWORK</h3>
+                    <p>
+                        We believe in the power of collaboration to
+                        achieve extraordinary results.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Innovation -->
+            <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-lightbulb"></i>
+                    </div>
+                    <h3>INNOVATION</h3>
+                    <p>
+                        We constantly seek new and better ways to
+                        solve complex challenges.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Safety -->
+            <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
+                <div class="feature-card text-center">
+                    <div class="feature-icon mb-3">
+                        <i class="bi bi-shield-fill-check"></i>
+                    </div>
+                    <h3>SAFETY</h3>
+                    <p>
+                        We are uncompromising in our commitment to the
+                        health and safety of our people.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
 
 
 
-<section id="architectural-design" class="section light-background">
+<section id="architectural-design" class="section">
 
     <div class="container" data-aos="fade-up">
 

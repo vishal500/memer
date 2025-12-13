@@ -28,7 +28,7 @@
     <link href="assets/css/main.css" rel="stylesheet">
 </head>
 
-<body class="index-page">
+<body class="index-page scrolled">
     <header id="header" class="header d-flex align-items-center fixed-top">
         <div class="container position-relative d-flex align-items-center justify-content-between">
 
@@ -40,7 +40,7 @@
                 <ul>
                     <li><a href="#hero" class="active">Home</a></li>
                     <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
+                    <li><a href="#architectural-design">Services</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

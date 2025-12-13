@@ -21,8 +21,8 @@
 :root { 
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #3b5353; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #193838; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #00a19e; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --heading-color: #1a2b54; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #1a2b54; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -45,10 +45,10 @@
 }
 
 .dark-background {
-  --background-color: #031a1a;
+  --background-color:#1a2b54;
   --default-color: #ffffff;
   --heading-color: #ffffff;
-  --surface-color: #0f302f;
+  --surface-color: #1a2b54;
   --contrast-color: #ffffff;
 }
 
@@ -475,8 +475,10 @@ h6 {
 }
 
 .footer .footer-about .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+max-height: 80px;
+    margin-right: 6px;
+    background: white;
+    border-radius: 10px;
 }
 
 .footer .footer-about .logo span {
@@ -660,7 +662,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  /* padding: 60px 0; */
+  padding: 60px 0;
   scroll-margin-top: 90px;
   overflow: clip;
 }

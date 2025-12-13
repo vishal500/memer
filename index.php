@@ -19,7 +19,7 @@
         </div>
 
     </section><!-- /Hero Section -->
- */ ?>
+
     <!-- About Section -->
     <section id="about" class="about section">
 
@@ -136,7 +136,8 @@
         </div>
 
     </section>
-
+ */ ?>
+<?php require_once('content.php'); ?>
 </main>
 
 

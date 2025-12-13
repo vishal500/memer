@@ -1,3 +1,424 @@
+
+
+
+<section id="architectural-design" class="section light-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <!-- Section Title -->
+        <div class="section-title text-start mb-5 d-flex align-items-center justify-content-between">
+            <div>
+                <h2 class="mb-2">Architectural Design</h2>
+                <div class="title-underline"></div>
+            </div>
+        </div>
+
+        <div class="row align-items-center g-5">
+
+            <!-- Content (LEFT) -->
+            <div class="col-lg-6 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+
+                <h5 class="mb-3 text-uppercase">
+                    Innovative Concepts
+                </h5>
+
+                <p>
+                    Our architectural division focuses on creating functional,
+                    sustainable, and aesthetically pleasing designs. We blend
+                    creativity with technical expertise to bring your vision to life.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Conceptual Design &amp; Planning
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        3D Visualization &amp; Modeling
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Sustainable Building Design
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Urban Planning
+                    </li>
+                </ul>
+
+            </div>
+
+            <!-- Image (RIGHT) -->
+            <div class="col-lg-6 order-lg-2" data-aos="fade-left" data-aos-delay="200">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/11.png"
+                        alt="Architectural Design"
+                        class="img-fluid rounded-3 shadow">
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<section id="interior-design" class="section dark-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <!-- Section Header -->
+
+        <div class="row align-items-center g-5">
+
+            <!-- Image (LEFT) -->
+            <div class="col-lg-6 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/10.png"
+                        alt="Interior Design and Fit-Out"
+                        class="img-fluid rounded-3 shadow">
+                </div>
+            </div>
+
+            <!-- Content (RIGHT) -->
+            <div class="col-lg-6 order-lg-2" data-aos="fade-left" data-aos-delay="200">
+                <div class="section-title text-start mb-5 d-flex align-items-center justify-content-between">
+                    <div>
+                        <h2 class="mb-2">Interior Design & Fit-Out</h2>
+                        <div class="title-underline"></div>
+                    </div>
+                </div>
+                <h5 class="mb-3">
+                    Transforming Spaces.
+                </h5>
+
+                <p>
+                    We deliver turnkey interior solutions for commercial,
+                    residential, and hospitality sectors. Our interior design
+                    and fit-out teams ensure precision execution of every detail,
+                    from concept development to final handover.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Luxury Furniture Selection
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Space Planning
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                        Lighting Design
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<section id="landscape-architecture" class="section light-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <!-- Section Title -->
+        <div class="section-title text-start mb-5">
+            <h2 class="mb-2">Landscape Architecture</h2>
+            <div class="title-underline"></div>
+        </div>
+
+        <div class="row align-items-center g-5">
+
+            <!-- Content (LEFT) -->
+            <div class="col-lg-6 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+
+                <h4 class="mb-3 text-uppercase">
+                    Harmonizing with Nature
+                </h4>
+
+                <p>
+                    We create outdoor environments that enhance the quality of life
+                    through thoughtful design and sustainable planning. Our landscape
+                    architecture solutions seamlessly blend natural beauty with
+                    functional outdoor spaces.
+                </p>
+
+                <p>
+                    Our services range from private gardens to large-scale public parks,
+                    delivering visually appealing and environmentally responsible
+                    landscapes.
+                </p>
+
+                <p>
+                    Services include <strong>hardscaping</strong>, <strong>softscaping</strong>,
+                    <strong>irrigation systems</strong>, and <strong>outdoor lighting solutions</strong>,
+                    all designed to thrive in the local climate.
+                </p>
+
+            </div>
+
+            <!-- Image (RIGHT) -->
+            <div class="col-lg-6 order-lg-2" data-aos="fade-left" data-aos-delay="200">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/9.png"
+                        alt="Landscape Architecture Design"
+                        class="img-fluid rounded-3 shadow">
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<section id="general-construction" class="section dark-background alt-section">
+
+    <div class="container" data-aos="fade-up">
+
+        <div class="row align-items-center g-5">
+            <!-- Image -->
+            <div class="col-lg-6 image-col" data-aos="fade-left" data-aos-delay="200">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/7.png"
+                        alt="General Construction"
+                        class="img-fluid rounded shadow">
+                </div>
+            </div>
+            <!-- Content -->
+            <div class="col-lg-6 content-col" data-aos="fade-right" data-aos-delay="150">
+
+                <h2 class="mb-3">General Construction</h2>
+                <div class="title-underline mb-4"></div>
+
+                <h5 class="mb-3">Execution Excellence.</h5>
+
+                <p>
+                    Memar International is renowned for delivering high-quality
+                    construction projects on time and within budget. We handle
+                    everything from residential compounds to high-rise commercial
+                    towers.
+                </p>
+
+                <p>
+                    Our project management teams ensure strict adherence to safety
+                    and quality standards throughout the construction lifecycle.
+                </p>
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+<!-- Structural Strengthening Section -->
+<section id="structural-strengthening" class="section light-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <!-- Section Heading -->
+        <div class="mb-5">
+            <h2 class="mb-2">Structural Strengthening</h2>
+            <div class="title-underline"></div>
+        </div>
+
+        <div class="row align-items-center g-5">
+
+            <!-- Content (LEFT) -->
+            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="150">
+
+                <h4 class="mb-3">Restoring Integrity</h4>
+
+                <p>
+                    We specialize in advanced structural strengthening techniques to
+                    extend the lifespan of existing buildings and infrastructure.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Carbon Fiber Reinforced Polymer (CFRP) wrapping
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Section enlargement
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Steel plate bonding
+                    </li>
+                    <li>
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Post-tensioning systems
+                    </li>
+                </ul>
+
+            </div>
+
+            <!-- Image (RIGHT) -->
+            <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/6.png"
+                        alt="Structural Strengthening Works"
+                        class="img-fluid rounded shadow">
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- /Structural Strengthening Section -->
+
+
+
+<!-- Concrete Repair & Injection Section -->
+<section id="concrete-repair" class="section dark-background">
+
+    <div class="container" data-aos="fade-up">
+
+        <div class="row align-items-center g-5">
+
+            <!-- Image (LEFT) -->
+            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="150">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/5.png"
+                        alt="Concrete Repair and Injection"
+                        class="img-fluid rounded shadow">
+                </div>
+            </div>
+
+            <!-- Content (RIGHT) -->
+            <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
+
+                <h2 class="mb-3">Concrete Repair &amp; Injection</h2>
+                <div class="title-underline mb-4"></div>
+
+                <h5 class="mb-3">Expert Rehabilitation.</h5>
+
+                <p>
+                    Our specialized teams diagnose and repair concrete deterioration
+                    caused by environmental factors or structural issues.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        <strong>Crack Injection:</strong> Epoxy and polyurethane injection for leak sealing.
+                    </li>
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        <strong>Spalling Repair:</strong> Patching and resurfacing damaged concrete.
+                    </li>
+                    <li>
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        <strong>Protective Coatings:</strong> Preventing future corrosion.
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- /Concrete Repair & Injection Section -->
+
+
+
+<!-- Waterproofing Systems Section -->
+<section id="waterproofing" class="section light-background">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <span class="description-title">Our Solutions</span>
+        <h2>Waterproofing Systems</h2>
+    </div>
+    <!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row align-items-center g-5">
+
+            <!-- Content (LEFT) -->
+            <div class="col-lg-6" data-aos="fade-right" data-aos-delay="150">
+                <h3 class="mb-3">Total Moisture Protection</h3>
+                <p>
+                    We offer a comprehensive range of waterproofing solutions for
+                    basements, roofs, and wet areas, ensuring the longevity of your
+                    structures.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Bituminous membrane systems
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Liquid applied membranes (Polyurethane/Acrylic)
+                    </li>
+                    <li class="mb-2">
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        PVC/TPO roofing systems
+                    </li>
+                    <li>
+                        <i class="bi bi-check-circle-fill text-warning me-2"></i>
+                        Cementitious waterproofing
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Image (RIGHT) -->
+            <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
+                <div class="image-wrapper">
+                    <img
+                        src="assets/img/4.png"
+                        alt="Waterproofing Systems"
+                        class="img-fluid rounded shadow">
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+<!-- /Waterproofing Systems Section -->
+
+
+
 <section id="protective-coatings" class="call-to-action section dark-background">
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">

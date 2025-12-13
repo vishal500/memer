@@ -19,7 +19,7 @@
         </div>
 
     </section><!-- /Hero Section -->
-
+*/ ?>
     <!-- About Section -->
     <section id="about" class="about section">
 
@@ -58,7 +58,7 @@
         </div>
     </section><!-- /About Section -->
 
-    <section id="features-2" class="features-2 section">
+    <section id="features-2" class="features-2 section  dark-background">
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
             <div class="container section-title" data-aos="fade-up">
@@ -74,16 +74,13 @@
                     </div>
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="testimonial-content">
-                            <div class="quote-icon">
+                            <div class="quote-icon" style="color:#fff;">
                                 <i class="bi bi-quote"></i>
                             </div>
                             <p>To be the region's most trusted partner in construction and
                                 engineering excellence, driving sustainable growth and setting
                                 benchmarks in quality and innovation.</p>
-                            <!-- <div class="testimonial-author">
-                                <h4>Jennifer Austin</h4>
-                                <span>Product Director at TechCorp</span>
-                            </div> -->
+
                         </div>
                     </div>
                 </div>
@@ -91,7 +88,13 @@
 
         </div>
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100" style="margin-top: 40px;">
+    </section>
+
+
+    <section id="features-3" class="features-2 section">
+
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" style="padding-top: 40px;">
             <div class="container section-title" data-aos="fade-up">
                 <span class="description-title">Our Mission</span>
                 <h2>Our Mission</h2>
@@ -100,7 +103,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="150">
                     <div class="feature-card">
                         <div class="feature-icon">
-                            <i class="bi bi-rocket-takeoff"></i>
+                            <img src="assets/img/rocket.jpeg">
                         </div>
                         <h3>EXCELLENCE</h3>
                         <p>To deliver superior quality in every project, exceeding client expectations through precision and dedication.</p>
@@ -110,7 +113,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="feature-card">
                         <div class="feature-icon">
-                            <i class="bi bi-graph-up-arrow"></i>
+                            <img src="assets/img/shake.jpeg">
                         </div>
                         <h3>PARTNERSHIP</h3>
                         <p>To build lasting relationships with
@@ -122,7 +125,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
                     <div class="feature-card">
                         <div class="feature-icon">
-                            <i class="bi bi-shield-check"></i>
+                            <img src="assets/img/leaf.jpeg">
                         </div>
                         <h3>SUSTAINABILITY</h3>
                         <p>To implement environmentally
@@ -134,10 +137,9 @@
             </div>
 
         </div>
-
     </section>
- */ ?>
-<?php require_once('content.php'); ?>
+
+    <?php require_once('content.php'); ?>
 </main>
 
 

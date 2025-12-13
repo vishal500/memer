@@ -728,7 +728,8 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  padding: 140px 0 60px 0;
+  padding: 120px 0 0 0;
+  margin-bottom: 35px;
   background: linear-gradient(135deg, var(--surface-color) 0%, color-mix(in srgb, var(--accent-color), transparent 95%) 100%);
   position: relative;
   overflow: hidden;
@@ -1635,7 +1636,7 @@ section,
   transition: all 0.3s ease;
   position: relative;
   border: 1px solid transparent;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  box-shadow: 200px 200px 150px 200px rgba(1, 1, 1, 0.05);
   overflow: hidden;
 }
 
@@ -1809,7 +1810,7 @@ section,
   align-items: center;
   justify-content: center;
   width: 65px;
-  height: 65px;
+  /* height: 65px; */
   border-radius: 18px;
   margin-bottom: 1.5rem;
   background: linear-gradient(135deg, var(--accent-color), color-mix(in srgb, var(--accent-color), transparent 40%));

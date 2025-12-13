@@ -3,8 +3,6 @@
 
 
 <main class="main">
-    <?php /*
-
     <!-- Hero Section -->
     <section id="hero" class="hero section">
 
@@ -104,6 +102,7 @@
                     <div class="feature-card">
                         <div class="feature-icon">
                             <img src="assets/img/rocket.jpeg">
+                            <img src="assets/img/rocket.jpeg">
                         </div>
                         <h3>EXCELLENCE</h3>
                         <p>To deliver superior quality in every project, exceeding client expectations through precision and dedication.</p>
@@ -113,6 +112,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="feature-card">
                         <div class="feature-icon">
+                            <img src="assets/img/shake.jpeg">
                             <img src="assets/img/shake.jpeg">
                         </div>
                         <h3>PARTNERSHIP</h3>
@@ -125,6 +125,7 @@
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
                     <div class="feature-card">
                         <div class="feature-icon">
+                            <img src="assets/img/leaf.jpeg">
                             <img src="assets/img/leaf.jpeg">
                         </div>
                         <h3>SUSTAINABILITY</h3>

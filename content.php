@@ -331,9 +331,6 @@
 </section>
 
 
-
-
-
 <section id="landscape-architecture" class="section light-background">
 
     <div class="container" data-aos="fade-up">
@@ -777,6 +774,71 @@
 
 
 
+<!-- Our Clients -->
+<section id="clients" class="clients section">
+
+    <div class="container">
+
+        <div class="swiper init-swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+            <div class="container section-title" data-aos="fade-up">
+                <span class="description-title">Our Clients</span>
+                <h2>Our Clients</h2>
+            </div>
+            <script type="application/json" class="swiper-config">
+                {
+                    "loop": true,
+                    "speed": 200,
+                    "autoplay": {
+                        "delay": 1000
+                    },
+                    "slidesPerView": "auto",
+                    "pagination": {
+                        "el": ".swiper-pagination",
+                        "type": "bullets",
+                        "clickable": true
+                    },
+                    "breakpoints": {
+                        "320": {
+                            "slidesPerView": 2,
+                            "spaceBetween": 40
+                        },
+                        "480": {
+                            "slidesPerView": 3,
+                            "spaceBetween": 60
+                        },
+                        "640": {
+                            "slidesPerView": 4,
+                            "spaceBetween": 80
+                        },
+                        "992": {
+                            "slidesPerView": 5,
+                            "spaceBetween": 100
+                        }
+                    }
+                }
+            </script>
+            <div class="swiper-wrapper align-items-center" id="swiper-wrapper-824f10d23b4da9bf3" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-412px, 0px, 0px); transition-delay: 0ms;">
+                <div class="swiper-slide" role="group" aria-label="5 / 8" data-swiper-slide-index="4" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-1.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide swiper-slide-prev" role="group" aria-label="6 / 8" data-swiper-slide-index="5" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-2.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide swiper-slide-active" role="group" aria-label="7 / 8" data-swiper-slide-index="6" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-3.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide swiper-slide-next" role="group" aria-label="8 / 8" data-swiper-slide-index="7" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-4.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="1 / 8" data-swiper-slide-index="0" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-5.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="2 / 8" data-swiper-slide-index="1" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-6.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="3 / 8" data-swiper-slide-index="2" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-7.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-8.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-9.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-10.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-11.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-12.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-13.jpeg" class="img-fluid" alt=""></div>
+                <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 200px; margin-right: 120px;"><img src="assets/img/logo-14.jpeg" class="img-fluid" alt=""></div>
+            </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+        </div>
+
+    </div>
+
+</section>
 
 <!-- Proven Track Record Section -->
 <section id="features-2" class="features-2 section">

@@ -676,7 +676,7 @@
             <!-- Left Content -->
             <div class="col-lg-6 order-lg-1" data-aos="fade-right" data-aos-delay="100">
                 <div class="content-area">
-                    <h2 class="mb-3">SAFETY FIRST</h2>
+                    <h2 class="mb-3">Passive fire proofing</h2>
 
                     <p>
                         We are certified installers of advanced passive fire protection systems,
@@ -775,7 +775,7 @@
 
 
 <!-- Our Clients -->
-<section id="clients" class="clients section">
+<!-- <section id="clients" class="clients section">
 
     <div class="container">
 
@@ -838,7 +838,90 @@
 
     </div>
 
+</section> -->
+
+<!-- Our Clients -->
+<section id="clients" class="clients section">
+
+  <div class="container">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <span class="description-title">Our Clients</span>
+      <h2>Our Clients</h2>
+    </div>
+
+    <!-- Swiper -->
+    <div class="swiper init-swiper">
+
+      <!-- Swiper Config -->
+      <script type="application/json" class="swiper-config">
+        {
+          "loop": true,
+          "speed": 400,
+          "autoplay": {
+            "delay": 1500,
+            "disableOnInteraction": false
+          },
+          "slidesPerView": "auto",
+          "navigation": {
+            "nextEl": ".swiper-button-next",
+            "prevEl": ".swiper-button-prev"
+          },
+          "pagination": {
+            "el": ".swiper-pagination",
+            "clickable": true
+          },
+          "breakpoints": {
+            "320": {
+              "slidesPerView": 2,
+              "spaceBetween": 30
+            },
+            "480": {
+              "slidesPerView": 3,
+              "spaceBetween": 40
+            },
+            "640": {
+              "slidesPerView": 4,
+              "spaceBetween": 60
+            },
+            "992": {
+              "slidesPerView": 5,
+              "spaceBetween": 80
+            }
+          }
+        }
+      </script>
+
+      <!-- Slides -->
+      <div class="swiper-wrapper align-items-center">
+
+        <div class="swiper-slide"><img src="assets/img/logo-1.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-2.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-3.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-4.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-5.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-6.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-7.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-8.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-9.jpeg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="assets/img/logo-10.jpeg" class="img-fluid" alt=""></div>
+
+      </div>
+
+      <!-- Navigation Arrows -->
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+
+      <!-- Pagination Dots -->
+      <div class="swiper-pagination"></div>
+
+    </div>
+
+  </div>
+
 </section>
+
 
 <!-- Proven Track Record Section -->
 <section id="features-2" class="features-2 section">

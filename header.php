@@ -1,7 +1,7 @@
 <?php
 function url($args = null)
 {
-    return 'http://localhost/memer/memer/';
+    return 'http://localhost/lorem/EstateAgency/';
 }
 ?>
 
@@ -12,13 +12,13 @@ function url($args = null)
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Memar</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-
-    <!-- Favicons -->
-    <!-- <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+    <!-- Primary Meta Tags -->
+    <title>Memar | Crack Injection, Waterproofing, Fireproofing & Epoxy Flooring Services</title>
+    <meta name="description" content="Professional crack injection, waterproofing, fireproofing, fire stopping, protective coating, concrete repair, fit-out, interior design, epoxy flooring and polyurethane flooring services for industrial, commercial and residential projects.">
+    <meta name="keywords" content="crack injection, waterproofing services, fireproofing, fire stopping, protective coating, concrete repair, fit out works, interior design services, epoxy flooring, polyurethane flooring, industrial flooring, building repair services">
+    <meta name="author" content="Your Company Name">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -50,29 +50,29 @@ function url($args = null)
                     <!-- <li><a href="#about">About</a></li> -->
                     <li class="dropdown"><a href="javascript:void(0)"><span>About</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li><a href="#about">About Us</a></li>
-                            <li><a href="#">Download File</a></li>
+                            <li><a href="<?= url() ?>#about">About Us</a></li>
+                            <li><a href="<?= url() ?>#">Download Profile</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a href="#architectural-design">Services</a></li> -->
+                    <!-- <li><a href="<?= url() ?>#architectural-design">Services</a></li> -->
                     <li class="dropdown"><a href="javascript:void(0)"><span>Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li><a href="#architectural-design">Architectural Design</a></li>
-                            <li><a href="#interior-design">Interior Design & Fit-Out</a></li>
-                            <li><a href="#landscape-architecture">Landscape Architecture</a></li>
-                            <li><a href="#general-construction">General Construction</a></li>
-                            <li><a href="#structural-strengthening">Structural Strengthening</a></li>
-                            <li><a href="#concrete-repair">Concrete Repair & Injection</a></li>
-                            <li><a href="#waterproofing">Waterproofing Systems</a></li>
-                            <li><a href="#protective-coatings">Protective Coatings</a></li>
-                            <li><a href="#safety-first">Safety First</a></li>
-                            <li><a href="#call-to-action">Industrial Flooring</a></li>
+                            <li><a href="<?= url() ?>#architectural-design">Architectural Design</a></li>
+                            <li><a href="<?= url() ?>#interior-design">Interior Design & Fit-Out</a></li>
+                            <li><a href="<?= url() ?>#landscape-architecture">Landscape Architecture</a></li>
+                            <li><a href="<?= url() ?>#general-construction">General Construction</a></li>
+                            <li><a href="<?= url() ?>#structural-strengthening">Structural Strengthening</a></li>
+                            <li><a href="<?= url() ?>#concrete-repair">Concrete Repair & Injection</a></li>
+                            <li><a href="<?= url() ?>#waterproofing">Waterproofing Systems</a></li>
+                            <li><a href="<?= url() ?>#protective-coatings">Protective Coatings</a></li>
+                            <li><a href="<?= url() ?>#safety-first">Passive fire proofing</a></li>
+                            <li><a href="<?= url() ?>#call-to-action">Industrial Flooring</a></li>
 
                         </ul>
                     </li>
-                    <li><a href="#contact">Projects</a></li>
+                    <li><a href="<?= url() ?>#">Projects</a></li>
                     <li><a href="<?= url() ?>ethics.php">Code of Ethics</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="<?= url() ?>#contact">Contact</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>

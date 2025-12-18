@@ -3951,3 +3951,9 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.bnx{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+  }
